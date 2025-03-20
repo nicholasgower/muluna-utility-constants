@@ -1,0 +1,5 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 2025-03-20
+  Features:
+    - Initial release. Added "Max fluid flow multiplier", defaulting to 20 times vanilla.
