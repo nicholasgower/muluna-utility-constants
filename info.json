@@ -1,13 +1,14 @@
 {
-  "name": "[internal-mod-name]",
+  "name": "muluna-utility-constants",
   "version": "0.0.0",
-  "title": "[MOD DISPLAY NAME]",
-  "author": "[YOUR MODS.FACTORIO.COM USERNAME]",
-  "homepage": "[HOMEPAGE/REPO URL]",
-  "description": "[SHORT DESCRIPTION]",
+  "title": "Muluna Utility Constants",
+  "author": "MeteorSwarm",
+  "homepage": "https://discord.gg/8pD6A3JRtZ",
+  "description": "Modifies certain utility constants core to Factorio's engine to better accomodate Muluna's use of high flow-rate recipes. May cause unintended effects, so every value is configurable.",
   "factorio_version": "2.0",
   "dependencies": [
-    "base"
+    "base",
+    "? space-age"
   ],
   "quality_required": false,
   "rail_bridges_required": false,
