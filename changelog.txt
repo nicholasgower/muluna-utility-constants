@@ -1,4 +1,9 @@
 ---------------------------------------------------------------------------------------------------
+Version: 1.0.1
+Date: 2025-03-23
+  Changes:
+    - Reduced default flow rate multiplier to 5, to address issues with uneven fluid distribution in throttled thrusters.
+---------------------------------------------------------------------------------------------------
 Version: 1.0.0
 Date: 2025-03-20
   Features:
